@@ -7,6 +7,10 @@ This tool was developed as part of the Seminar on Computational Engineering at *
 
 ---
 
+## How to Use
+1. Enter a RISC-V instruction in binary or hexadecimal format.
+2. The tool decodes the instruction and displays the step-by-step decoding process.
+
 ## Features and Support
 The RISC-V Instruction Decoder Visualizer currently supports the following instruction sets and extensions:
 
@@ -39,12 +43,6 @@ The **RISC-V Instruction Decoder Visualizer** builds upon **rvcodec.js**, a tool
 - **rvcodec.js** is distributed under the [GNU Affero General Public License v3.0](https://www.gnu.org/licenses/agpl-3.0.en.html).
 
 We are grateful to LupLab for their foundational work, which made this project possible.
-
-
-## How to Use
-1. Enter a RISC-V instruction in binary or hexadecimal format.
-2. The tool decodes the instruction and displays the step-by-step decoding process.
-
 
 ## Contributing
 Contributions are welcome! If you would like to enhance the tool or report issues, please feel free to open an issue or submit a pull request.
